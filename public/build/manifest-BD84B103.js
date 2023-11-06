@@ -1,0 +1,1 @@
+window.__remixManifest={"entry":{"module":"/build/entry.client-M24DXUA3.js","imports":["/build/_shared/chunk-42YD2ZHM.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-FADSHV4J.js","hasAction":false,"hasLoader":false,"hasErrorBoundary":false}},"version":"bd84b103","url":"/build/manifest-BD84B103.js"};
